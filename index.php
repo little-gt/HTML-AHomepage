@@ -11,8 +11,8 @@ Version：20200708
     <title>GarfieldTom's Nest</title>
     <meta name="keywords" content="GarfieldTom,GarfieldTom个人主页,little-gt,无聊の日记">
     <meta name="theme-color" content="#000">
-    <link rel="shortcut icon" href="https://garfieldtom.cool/gt-favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="https://garfieldtom.cool/css/style.css">
+    <link rel="shortcut icon" href="/gt-favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/css/style.css">
     <style>
             h1::before{
                 content: 'GarfieldTom\'S NEST';
